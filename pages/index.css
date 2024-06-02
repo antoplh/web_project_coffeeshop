@@ -8,3 +8,18 @@
 }
 /* Para Inter, usa Arial como alternativa y la familia genérica sans-serif en caso de que el usuario o usuaria no tenga ninguna de las otras fuentes.
 Para Noto Serif, usa Times New Roman como alternativa y la familia serif genérica en caso de que el usuario o usuaria no tenga ninguna de las otras fuentes. */
+
+.header {
+  background-color: #fff;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__links {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
