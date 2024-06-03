@@ -87,18 +87,17 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
 }
 
 .header__footer {
+  margin: 0 80px 40px 80px;
+  display: flex;
+  justify-content: space-between;
   position: absolute;
-  bottom: 40px;
-  padding: 0 80px;
   left: 0;
   right: 0;
-  display: flex;
+  bottom: 0;
   align-items: flex-end;
-  justify-content: space-between;
 }
 
-.header__span {
-  display: block;
+.header__footer-right {
 }
 
 .header__paragraph {
@@ -107,13 +106,6 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
   font-size: 16px;
   line-height: 20px;
   color: #838383;
-}
-
-.header__paragraph_type_schedule {
-  margin: 0;
-}
-.header__paragraph_type_address {
-  margin: 0;
 }
 
 .recipes {
