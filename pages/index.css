@@ -173,9 +173,9 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin: 0;
   text-align: center;
   display: block;
+  margin: 0 auto 80px;
 }
 
 .form {
@@ -183,7 +183,7 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
 }
 
 .reservation__form {
-  margin: 80px auto;
+  margin: auto;
   padding-bottom: 120px;
 }
 
