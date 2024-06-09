@@ -164,6 +164,7 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  padding-top: 100px;
 }
 
 .reservation__title {
@@ -172,8 +173,7 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  padding-top: 100px;
-  margin: auto 80px;
+  margin: 0;
   text-align: center;
   display: block;
 }
@@ -183,7 +183,7 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
 }
 
 .reservation__form {
-  margin: 0 auto;
+  margin: 80px auto;
   padding-bottom: 120px;
 }
 
@@ -193,6 +193,8 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
 }
 
 .form__label {
+  font-style: normal;
+  font-weight: 500;
   display: block;
   font-size: 16px;
   line-height: 20px;
@@ -201,6 +203,8 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
 }
 
 .form__input {
+  font-style: normal;
+  font-weight: 500;
   font-size: 16px;
   line-height: 20px;
   border-radius: 4px;
@@ -216,6 +220,8 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
 }
 
 .form__button {
+  font-style: normal;
+  font-weight: 500;
   font-size: 16px;
   line-height: 20px;
   border-radius: 4px;
