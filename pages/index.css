@@ -173,7 +173,7 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
   font-size: 44px;
   line-height: 52px;
   padding-top: 100px;
-  margin: 0 0 80px;
+  margin: auto 80px;
   text-align: center;
   display: block;
 }
@@ -241,7 +241,7 @@ Para Noto Serif, usa Times New Roman como alternativa y la familia serif genéri
   clip: rect(0 0 0 0);
 }
 
-.form__item_el_checkbox {
+.form__label_el_checkbox {
   display: flex;
   justify-content: center;
   align-content: center;
